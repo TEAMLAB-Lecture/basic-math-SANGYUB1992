@@ -49,7 +49,7 @@ def get_smallest(number_list):
 
     return min(number_list)
 
-print(
+
 def get_mean(number_list):
     """
     주어진 리스트 숫자들의 평균을 구함.
